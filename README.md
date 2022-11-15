@@ -1,1 +1,1 @@
-# DL---Image-Classification
+# DL-Image-Classification
